@@ -1,4 +1,4 @@
-# taskriz-com
+# Taskriz
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-taskriz-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://taskriz.com/
+Taskriz provides a human-in-the-loop platform that connects business software and AI agents with real people to approve, verify, and complete tasks that require human judgment. Built by Appeggio in Australia, it enables secure, private, and branded interactions, ensuring data privacy and trust while automating workflows across enterprises.
+
+**Areas:** Human-in-the-loop · Business Software · AI Agents · Secure · Australia
+
+## Taskriz on APIs.io
+
+Everything profiled for Taskriz is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/taskriz-com/](https://apis.io/providers/taskriz-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Taskriz API](https://apis.io/apis/taskriz-com/taskriz-com-api/) — Taskriz API as documented publicly: 10 operations. Contract generated from the documentation by API Evangelist (2026-11-25); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetV1AttachmentsIdResponse](https://apis.io/schemas/taskriz-com/taskriz-com-get-v1-attachments-id-response/)
+- [GetV1MeResponse](https://apis.io/schemas/taskriz-com/taskriz-com-get-v1-me-response/)
+- [PostV1RecallRequest](https://apis.io/schemas/taskriz-com/taskriz-com-post-v1-recall-request/)
+- [PostV1SendRequest](https://apis.io/schemas/taskriz-com/taskriz-com-post-v1-send-request/)
+- [PostV1TokenRequest](https://apis.io/schemas/taskriz-com/taskriz-com-post-v1-token-request/)
+- [PostV1UpdateRequest](https://apis.io/schemas/taskriz-com/taskriz-com-post-v1-update-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Taskriz Com Context](https://apis.io/jsonld/taskriz-com/taskriz-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Taskriz API Rules](https://apis.io/rules/taskriz-com/taskriz-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Taskriz Domain Security](https://apis.io/security/taskriz-com/taskriz-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Taskriz Plans Pricing](https://apis.io/plans/taskriz-com/taskriz-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://taskriz.com/)
+- [Documentation](https://dev.taskriz.com/)
+- [Pricing](https://www.taskriz.com/pricing/)
+- [Support](https://www.taskriz.com/support/)
+- [Blog](https://www.taskriz.com/blog/)
+- [Security](https://www.taskriz.com/security/)
+- [Terms of service](https://www.taskriz.com/terms/)
+- [Privacy policy](https://www.taskriz.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 46.8** — developing · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 55.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 50.5 |
+
+**Agent readiness 36.1** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/taskriz-com/](https://apis.io/providers/taskriz-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Taskriz: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/taskriz-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
